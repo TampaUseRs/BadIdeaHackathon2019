@@ -9,7 +9,7 @@ output:
 </div>
 
 \begin{center}
-\includegraphics[width=30mm]{images/boom.png}
+\includegraphics[width=30mm]{../logos/boom.png}
 \end{center}
 
 \center 
