@@ -1,4 +1,4 @@
-# BadIdeaHackathon2019  <img src="https://github.com/TampaUseRs/TampaUseRs/raw/master/assets/hex-logo/trug-hex-2880.png" align="right" height="139" />
+# BadIdeaHackathon2019  <img src="https://github.com/jhcreed/BadIdeaHackathon2019/raw/master/logos/boom.png" align="right" height="139" />
 Smart solutions to stupid ideas 
 
 ## Bad Idea Hackathon
@@ -10,7 +10,11 @@ The Bad Idea Hackathon is an opportunity for members of the Tampa Bay R Users to
 ## Info
 
 :calendar: December 7
+
+:clock10: 10 am to 6 pm
+
 :office: OutFast Realty
+
 :round_pushpin: [4023 N Armenia Ave Suite 220](https://www.google.com/maps/place/Out+Fast+Realty+%26+Investments/@27.9755655,-82.486562,17z/data=!3m1!4b1!4m5!3m4!1s0x88c2c38d167caf6b:0x8a69e2b5d9ccb257!8m2!3d27.9755655!4d-82.4843733) 
 
 ## What to bring 
@@ -23,6 +27,10 @@ The Bad Idea Hackathon is an opportunity for members of the Tampa Bay R Users to
 ## Price 
 
 Free! 
+
+## Sponsors 
+
+![Alt Text](logos/outfast.jpg)
 
 
 
