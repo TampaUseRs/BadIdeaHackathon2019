@@ -1,0 +1,52 @@
+---
+title: ''
+output:
+  pdf_document: default
+  html_document: default
+---
+  
+<div style="margin-bottom:50px;">
+</div>
+  
+<!-- \begin{center} -->
+<!-- \includegraphics[width=15mm]{../logos/boom.png} -->
+<!-- \end{center} -->
+
+\center 
+
+```{r, echo=FALSE}
+hack_name <- "Bad Idea Hackathon"
+org_name <- "Tampa Bay R Users"
+state <- "Florida"
+```
+
+# Waiver of Liability
+
+1. I hereby **release and covenant not to sue** `r hack_name`, `r org_name`, their members or volunteers (hereinafter referred to as **releasees**) from any liabilities, claims, demands, actions, and causes of action whatsoever arising out of or related to any loss, damage, or injury that may be sustained by me, or to any property belonging to me, while participating in `r hack_name` while in, on, or upon the premises where `r hack_name` is being conducted, **regardless of whether such loss is caused by the negligence of the releasees**, or otherwise and regardless of whether such liability arises in tort, contract, strict liability, or otherwise, to the fullest extent allowed by law.
+
+2. I am fully aware of the risks and hazards connected with the activities of participating in `r hack_name`, am aware that such activities include the risk of injury and even death, and I hereby elect to voluntarily participate in said activities, knowing that the activities may be hazardous to my property and me. I understand that `r hack_name` does not require me to participate in this activity. I voluntarily assume full responsibility for any risks of loss, property damage, or personal injury, including death, that may be sustained by me or any loss or damage to property owned by me, as a result of engaging in such activities, **whether caused by the negligence of releasees** or otherwise, to the fullest extent allowed by law. 
+
+3. The Hardware includes all materials provided by `r org_name`.
+
+4. It is my express intent that this Waiver and Hold Harmless Agreement shall bind the members of my family and spouse, if I am alive, and my heirs, assigns and personal representative, if I am deceased. This document shall be deemed as a **release, waiver, discharge, and covenant not to sue** the above-named **releasees**. I hereby further agree that this Waiver of Liability and Hold Harmless Agreement shall be construed in accordance with the laws of the State of `r state` and that any mediation, suit, or other proceeding must be filed or entered into only in `r state`. Any portion of this document deemed unlawful or unenforceable is severable and shall be stricken without any effect on the enforceability of the remaining provisions.
+
+5. I hereby grant permission to the **releasees** to use photographs and/or video of me taken in publications, news releases, online, and any other form related to the mission of `r hack_name`. 
+
+**BY SUBMITTING THE REQUESTED INFORMATION AND BY SIGNING BY HAND BELOW, I ACKNOWLEDGE AND REPRESENT THAT I have read the foregoing Waiver of Liability and Hold Harmless Agreement, understand it and sign it voluntarily as my own free act and deed; no oral representations, statements, or inducements, apart from the foregoing written agreement, have been made; I am at least eighteen (18) years of age (or my parent/guardian is also signing below) and fully competent; and I execute this Agreement for full, adequate and complete consideration fully intending to be bound by same.**
+
+Participant Name: _____________________ Participant Date of Birth: ____________
+
+Pariticpant Signature: ________________ Particiapnt Signing Date: _____________
+
+
+
+**The following language is only applicable if the Particiapnt is younger than eighteen (18)**
+
+I, ____________________________, am the parent or guardian of the Participant. I have read the above waiver and I agree to its terms and grant Participant permission to participate.
+
+Parent Signature: _____________________
+
+Parent Signing Date: __________________
+
+
+
