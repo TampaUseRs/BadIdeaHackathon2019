@@ -32,5 +32,5 @@ Free!
 
 ![Alt Text](logos/outfast.jpg)
 
-
+![Alt Text](logos/RConsortium_Icon.png)
 
