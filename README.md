@@ -7,6 +7,8 @@ Join Tampa Bay R Users for it's first ever Bad Idea Hackathon on December 7 at O
 
 The Bad Idea Hackathon is an opportunity for members of the Tampa Bay R Users to get together and create something. Small teams or individuals will work together to create something bad in 8 hours. During that time we will have food, drinks and programming.
 
+Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfUWhgdsU1vQHURq6RSzvIKqA2qEdcOL-zvnxZ2nRY90Xw2dw/viewform)!
+
 ## Info
 
 :calendar: December 7
